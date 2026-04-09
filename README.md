@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhagyaraj</h1>
-<h3 align="center">I am Bhagyaraj and I started my carrier with a Diploma in mechanical engineering. I am done an internship at Luminar Technolab as a MERN Full Stack Development and I am so passionate about working as a front-end development</h3>
+<h3 align="center">React Developer with hands-on experience in MERN stack applications, building responsive and user-focused interfaces using Tailwind CSS and modern JavaScript. Worked on real-world projects including student performance systems and e-commerce platforms.
+Strong interest in UI/UX design, combining development skills with an understanding of user behavior and visual hierarchy. Also experienced in team leadership, improving workflow efficiency in customer service environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyarajdev&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyarajdev" /> </p>
 
